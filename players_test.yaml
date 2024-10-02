@@ -1,0 +1,6 @@
+- name: Player1
+  eid: player1eid
+  eliminated: false
+- name: Player2
+  eid: player2eid
+  eliminated: true
